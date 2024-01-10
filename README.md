@@ -1,12 +1,19 @@
 # NYC_Daily_COVID-19_Cases
+
 NYC COVID-19 Data Analysis
+
 This Python program analyzes COVID-19 data for New York City boroughs and generates a plot depicting the fraction of cases over time.
 
 Instructions:
+
 -Run the program.
+
 -Enter the filename of the COVID-19 data in CSV format.
+
 -Choose a NYC borough (Bronx, Brooklyn, Queens, Manhattan, or Staten Island).
+
 -Specify an output filename for the generated plot.
+
 
 Program Steps:
 
@@ -38,7 +45,11 @@ Creates a new DataFrame column ('Fraction') by dividing the selected borough's c
 
 -Saves the generated plot with the specified output filename.
 
+
 Requirements:
+
 -Python 3.x
+
 -Matplotlib
+
 -Pandas
